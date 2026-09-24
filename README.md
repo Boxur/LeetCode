@@ -5,10 +5,11 @@ repo to upload my LeetCode solutions to
 # Completion status
 
 ## Status
- 1. Two Sum 🟢
- 2. Add Two Numbers 🟢
- 1658. Minimum Operations to Reduce X to Zero 🟡
- 3525. Find X Value of Array II ❌
+ 1. [Two Sum 🟢](https://github.com/Boxur/LeetCode/tree/main/1_two_sum)
+ 2. [Add Two Numbers 🟢](https://github.com/Boxur/LeetCode/tree/main/2_add_two_numbers)
+ 3. [Longest Substring Without Repeating Characters 🟢](https://github.com/Boxur/LeetCode/tree/main/3_longest_substring_without_repeating_characters)
+ 1658. [Minimum Operations to Reduce X to Zero 🟡](https://github.com/Boxur/LeetCode/tree/main/1658_minimum_operations_to_reduce_x_to_zero)
+ 3525. [Find X Value of Array II ❌](https://github.com/Boxur/LeetCode/tree/main/3525_find_x_value_of_array_II)
 
 ## Legend
  - optimal 🟢
