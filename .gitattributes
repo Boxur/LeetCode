@@ -1,1 +1,2 @@
 CMakeLists.txt linguist-documentation
+run.sh linguist-documentation
